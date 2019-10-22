@@ -16,6 +16,6 @@ capitals = {
                         "Bloemfontein"
                     ]
            }
-print("country")
-print("capitals")
+print(country)
+print(capitals)
 print(capitals["South Africa"][1])
